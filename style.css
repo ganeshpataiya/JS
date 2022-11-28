@@ -9,6 +9,10 @@
     background-color: #f7df1e!important;
      color: #000 !important; */
 }
+.navbar-brand svg {
+    height: 50px;
+    width: 50px;
+}
 
       .bd-placeholder-img {
         font-size: 1.125rem;
