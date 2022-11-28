@@ -1,7 +1,10 @@
-html, body {
-  height: 100%;
-  width: 100%;
+
+.gp-header-color,
+.gp-footer-color {
+    color: var(--bs-dark);
+    background-color: var(--bs-warning);
 }
+
 .bg-yellow {
     background-color: #f7df1e!important;
      color: #000 !important; */
