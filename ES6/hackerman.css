@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+   background: black;
+    text-align: center;
+  
+  
+  
+}
+p {
+  color: #e30202 !important;
+}
+h1 {
+     -webkit-transition: color 2s ease-out;
+  -moz-transition: color 2s ease-out;
+  -o-transition: color 2s ease-out;
+  transition: color 2s ease-out;
+    color: lime;
+}
