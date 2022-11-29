@@ -1,12 +1,12 @@
-gp-header-color,
+.gp-header-color,
 .gp-footer-color {
     color: var(--bs-dark);
     background-color: var(--bs-warning);
 }
 
-.bg-yellow {
-    background-color: #f7df1e!important;
-     color: #000 !important; */
+.gp-nav-bg-color {
+    background-color: #f9bb00;
+     color: #000 ; 
 }
 .navbar-brand svg {
     height: 50px;
