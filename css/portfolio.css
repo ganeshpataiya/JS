@@ -63,3 +63,8 @@
         white-space: nowrap;
         -webkit-overflow-scrolling: touch;
       }
+
+picture img {
+    width: 100%;
+    height: auto;
+}
